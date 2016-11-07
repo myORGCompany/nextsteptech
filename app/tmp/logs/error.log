@@ -1,0 +1,884 @@
+2016-11-07 13:06:35 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/bootstrap/css/bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:06:35 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:06:35 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/magnific-popup/magnific-popup.css
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:06:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/css/creative.min.css
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:05 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/bootstrap/css/bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:05 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/css/creative.min.css
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:05 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/magnific-popup/magnific-popup.css
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:05 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/bootstrap/js/bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:05 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/magnific-popup/jquery.magnific-popup.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:05 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/scrollreveal/scrollreveal.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:05 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/js/creative.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:05 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/bootstrap/js/bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:05 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/scrollreveal/scrollreveal.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:05 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/magnific-popup/jquery.magnific-popup.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/js/creative.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:47 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:47 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/bootstrap/css/bootstrap.min.css
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:47 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/jquery/jquery.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:47 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/magnific-popup/jquery.magnific-popup.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:47 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/scrollreveal/scrollreveal.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/css/creative.min.css
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/js/creative.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:47 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/magnific-popup/magnific-popup.css
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:47 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/bootstrap/js/bootstrap.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:47 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/scrollreveal/scrollreveal.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:47 Error: [MissingControllerException] Controller class VendorController could not be found.
+Exception Attributes: array (
+  'class' => 'VendorController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/vendor/magnific-popup/jquery.magnific-popup.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:22:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/js/creative.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:26:43 Error: [MissingControllerException] Controller class Cdnjs.cloudflare.comController could not be found.
+Exception Attributes: array (
+  'class' => 'Cdnjs.cloudflare.comController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:26:43 Error: [MissingControllerException] Controller class Cdnjs.cloudflare.comController could not be found.
+Exception Attributes: array (
+  'class' => 'Cdnjs.cloudflare.comController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:26:59 Error: [MissingControllerException] Controller class Cdnjs.cloudflare.comController could not be found.
+Exception Attributes: array (
+  'class' => 'Cdnjs.cloudflare.comController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 13:26:59 Error: [MissingControllerException] Controller class Cdnjs.cloudflare.comController could not be found.
+Exception Attributes: array (
+  'class' => 'Cdnjs.cloudflare.comController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 14:12:02 Error: [MissingControllerException] Controller class ...Controller could not be found.
+Exception Attributes: array (
+  'class' => '...Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/...
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 14:15:29 Error: [MissingControllerException] Controller class ...Controller could not be found.
+Exception Attributes: array (
+  'class' => '...Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/...
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 14:27:27 Error: [MissingControllerException] Controller class ...Controller could not be found.
+Exception Attributes: array (
+  'class' => '...Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/...
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 14:27:54 Error: [MissingControllerException] Controller class ...Controller could not be found.
+Exception Attributes: array (
+  'class' => '...Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/...
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 14:28:14 Error: [MissingControllerException] Controller class ...Controller could not be found.
+Exception Attributes: array (
+  'class' => '...Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/...
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 14:29:35 Error: [MissingControllerException] Controller class ...Controller could not be found.
+Exception Attributes: array (
+  'class' => '...Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/...
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 14:29:59 Error: [MissingControllerException] Controller class ...Controller could not be found.
+Exception Attributes: array (
+  'class' => '...Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/...
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 14:31:00 Error: [MissingControllerException] Controller class ...Controller could not be found.
+Exception Attributes: array (
+  'class' => '...Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/...
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 14:31:18 Error: [MissingControllerException] Controller class ...Controller could not be found.
+Exception Attributes: array (
+  'class' => '...Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/...
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 14:31:41 Error: [MissingControllerException] Controller class ...Controller could not be found.
+Exception Attributes: array (
+  'class' => '...Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/...
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 14:32:39 Error: [MissingControllerException] Controller class ...Controller could not be found.
+Exception Attributes: array (
+  'class' => '...Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/...
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 15:10:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/3.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 15:10:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/2.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 15:23:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/2.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 15:23:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/12.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 15:23:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/3.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 15:24:07 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/2.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 15:24:07 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/3.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 15:35:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/2.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 15:35:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/3.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 15:36:07 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/3.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 15:41:01 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/7.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 16:09:00 Error: [MissingControllerException] Controller class PinController could not be found.
+Exception Attributes: array (
+  'class' => 'PinController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/Pin
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 16:45:38 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/portfolio/1.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 16:45:38 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/portfolio/2.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 16:46:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/portfolio/1.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 16:46:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/portfolio/2.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 16:46:27 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/portfolio/1.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 16:46:27 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/portfolio/2.jpg
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 17:02:13 Error: [MissingControllerException] Controller class DeshBoardController could not be found.
+Exception Attributes: array (
+  'class' => 'DeshBoardController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/desh_board/saveBankDetails
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 17:06:13 Error: [MissingControllerException] Controller class DeshBoardController could not be found.
+Exception Attributes: array (
+  'class' => 'DeshBoardController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/desh_board/saveBankDetails
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 17:06:28 Error: [MissingControllerException] Controller class DeshBoardController could not be found.
+Exception Attributes: array (
+  'class' => 'DeshBoardController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/desh_board/saveBankDetails
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 17:07:28 Error: [MissingControllerException] Controller class DeshBoardController could not be found.
+Exception Attributes: array (
+  'class' => 'DeshBoardController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/desh_board/saveBankDetails
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 17:09:57 Error: [MissingControllerException] Controller class DeshBoardController could not be found.
+Exception Attributes: array (
+  'class' => 'DeshBoardController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/desh_board/saveBankDetails
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 17:47:51 Error: [MissingControllerException] Controller class DeshBoardController could not be found.
+Exception Attributes: array (
+  'class' => 'DeshBoardController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/desh_board/isRegistered
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 17:48:56 Error: [MissingActionException] Action PagesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'display',
+)
+Request URL: /cakephp/pages/submitLead
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-11-07 17:49:09 Error: [MissingActionException] Action PagesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'display',
+)
+Request URL: /cakephp/pages/submitLead
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-11-07 17:49:41 Error: [MissingActionException] Action PagesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'display',
+)
+Request URL: /cakephp/pages/submitLead
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-11-07 17:50:56 Error: [MissingActionException] Action PagesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'display',
+)
+Request URL: /cakephp/pages/submitLead
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-11-07 17:51:24 Error: [MissingActionException] Action PagesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'display',
+)
+Request URL: /cakephp/pages/submitLead
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-11-07 17:52:12 Error: [MissingActionException] Action PagesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'display',
+)
+Request URL: /cakephp/pages/submitLead
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-11-07 17:52:31 Error: [MissingActionException] Action PagesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'display',
+)
+Request URL: /cakephp/pages/submitLead
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-11-07 17:53:57 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/pages/submitLead
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Model/ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 /var/www/html/cakephp/lib/Cake/Model/Model.php(3640): ConnectionManager::getDataSource('default')
+#2 /var/www/html/cakephp/lib/Cake/Model/Model.php(1162): Model->setDataSource('default')
+#3 /var/www/html/cakephp/lib/Cake/Model/Model.php(3667): Model->setSource('pop_leads')
+#4 /var/www/html/cakephp/lib/Cake/Model/Model.php(1755): Model->getDataSource()
+#5 /var/www/html/cakephp/app/Controller/PagesController.php(57): Model->save(Array)
+#6 [internal function]: PagesController->submitLead()
+#7 /var/www/html/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#8 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#10 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-11-07 17:54:11 Warning: Warning (2): include_once(/var/www/html/cakephp/app/Config/database.php): failed to open stream: No such file or directory in [/var/www/html/cakephp/lib/Cake/Model/ConnectionManager.php, line 67]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+ConnectionManager::_init() - CORE/Cake/Model/ConnectionManager.php, line 67
+ConnectionManager::_init() - CORE/Cake/Model/ConnectionManager.php, line 67
+ConnectionManager::getDataSource() - CORE/Cake/Model/ConnectionManager.php, line 83
+Model::setDataSource() - CORE/Cake/Model/Model.php, line 3640
+Model::setSource() - CORE/Cake/Model/Model.php, line 1162
+Model::getDataSource() - CORE/Cake/Model/Model.php, line 3667
+Model::save() - CORE/Cake/Model/Model.php, line 1755
+PagesController::submitLead() - APP/Controller/PagesController.php, line 57
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 491
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 111
+
+2016-11-07 17:54:11 Warning: Warning (2): include_once() [<a href='http://php.net/function.include'>function.include</a>]: Failed opening '/var/www/html/cakephp/app/Config/database.php' for inclusion (include_path='/var/www/html/cakephp/lib:.:/usr/share/php:/usr/share/pear') in [/var/www/html/cakephp/lib/Cake/Model/ConnectionManager.php, line 67]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+ConnectionManager::_init() - CORE/Cake/Model/ConnectionManager.php, line 67
+ConnectionManager::_init() - CORE/Cake/Model/ConnectionManager.php, line 67
+ConnectionManager::getDataSource() - CORE/Cake/Model/ConnectionManager.php, line 83
+Model::setDataSource() - CORE/Cake/Model/Model.php, line 3640
+Model::setSource() - CORE/Cake/Model/Model.php, line 1162
+Model::getDataSource() - CORE/Cake/Model/Model.php, line 3667
+Model::save() - CORE/Cake/Model/Model.php, line 1755
+PagesController::submitLead() - APP/Controller/PagesController.php, line 57
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 491
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 111
+
+2016-11-07 17:54:11 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/pages/submitLead
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Model/ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 /var/www/html/cakephp/lib/Cake/Model/Model.php(3640): ConnectionManager::getDataSource('default')
+#2 /var/www/html/cakephp/lib/Cake/Model/Model.php(1162): Model->setDataSource('default')
+#3 /var/www/html/cakephp/lib/Cake/Model/Model.php(3667): Model->setSource('pop_leads')
+#4 /var/www/html/cakephp/lib/Cake/Model/Model.php(1755): Model->getDataSource()
+#5 /var/www/html/cakephp/app/Controller/PagesController.php(57): Model->save(Array)
+#6 [internal function]: PagesController->submitLead()
+#7 /var/www/html/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#8 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#10 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-11-07 17:54:23 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/pages/submitLead
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Model/ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 /var/www/html/cakephp/lib/Cake/Model/Model.php(3640): ConnectionManager::getDataSource('default')
+#2 /var/www/html/cakephp/lib/Cake/Model/Model.php(1162): Model->setDataSource('default')
+#3 /var/www/html/cakephp/lib/Cake/Model/Model.php(3667): Model->setSource('pop_leads')
+#4 /var/www/html/cakephp/lib/Cake/Model/Model.php(1755): Model->getDataSource()
+#5 /var/www/html/cakephp/app/Controller/PagesController.php(57): Model->save(Array)
+#6 [internal function]: PagesController->submitLead()
+#7 /var/www/html/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#8 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#10 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-11-07 17:56:14 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/pages/submitLead
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Model/ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 /var/www/html/cakephp/lib/Cake/Model/Model.php(3640): ConnectionManager::getDataSource('default')
+#2 /var/www/html/cakephp/lib/Cake/Model/Model.php(1162): Model->setDataSource('default')
+#3 /var/www/html/cakephp/lib/Cake/Model/Model.php(3667): Model->setSource('pop_leads')
+#4 /var/www/html/cakephp/lib/Cake/Model/Model.php(1755): Model->getDataSource()
+#5 /var/www/html/cakephp/app/Controller/PagesController.php(58): Model->save(Array)
+#6 [internal function]: PagesController->submitLead()
+#7 /var/www/html/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#8 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#10 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-11-07 18:25:34 Error: [MissingControllerException] Controller class HomePagesController could not be found.
+Exception Attributes: array (
+  'class' => 'HomePagesController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/home_pages/submitLead
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 18:26:27 Error: [MissingControllerException] Controller class HomePagesController could not be found.
+Exception Attributes: array (
+  'class' => 'HomePagesController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/home_pages/submitLead
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-07 18:59:24 Error: Fatal Error (1): Class 'CakeEmail' not found in [/var/www/html/cakephp/app/Controller/AppController.php, line 49]
+2016-11-07 18:59:24 Error: [FatalErrorException] Class 'CakeEmail' not found
+Request URL: /cakephp/
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Class 'CakeEmai...', '/var/www/html/c...', 49)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'CakeEmai...', '/var/www/html/c...', 49, Array)
+#2 /var/www/html/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'CakeEmai...', '/var/www/html/c...', 49, Array)
+#3 /var/www/html/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-11-07 19:00:03 Error: [ConfigureException] /var/www/html/cakephp/app/Config/email.php not found.
+Request URL: /cakephp/
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Network/Email/CakeEmail.php(1148): CakeEmail->_applyConfig('elastic')
+#1 /var/www/html/cakephp/lib/Cake/Network/Email/CakeEmail.php(362): CakeEmail->config('elastic')
+#2 /var/www/html/cakephp/app/Controller/AppController.php(50): CakeEmail->__construct('elastic')
+#3 /var/www/html/cakephp/app/Controller/MyController.php(50): AppController->sendMail('devr96@gmail.co...', Array, 'Vikrant Agrawal', 'success', 'contact-us')
+#4 [internal function]: MyController->home()
+#5 /var/www/html/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(MyController), Array)
+#6 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(MyController), Object(CakeRequest))
+#8 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-11-07 19:00:47 Error: [ConfigureException] /var/www/html/cakephp/app/Config/email.php not found.
+Request URL: /cakephp/
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Network/Email/CakeEmail.php(1148): CakeEmail->_applyConfig('elastic')
+#1 /var/www/html/cakephp/lib/Cake/Network/Email/CakeEmail.php(362): CakeEmail->config('elastic')
+#2 /var/www/html/cakephp/app/Controller/AppController.php(50): CakeEmail->__construct('elastic')
+#3 /var/www/html/cakephp/app/Controller/MyController.php(50): AppController->sendMail('devr96@gmail.co...', Array, 'Vikrant Agrawal', 'success', 'contact-us')
+#4 [internal function]: MyController->home()
+#5 /var/www/html/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(MyController), Array)
+#6 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(MyController), Object(CakeRequest))
+#8 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-11-07 19:01:32 Error: [ConfigureException] /var/www/html/cakephp/app/Config/email.php not found.
+Request URL: /cakephp/
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Network/Email/CakeEmail.php(1148): CakeEmail->_applyConfig('elastic')
+#1 /var/www/html/cakephp/lib/Cake/Network/Email/CakeEmail.php(362): CakeEmail->config('elastic')
+#2 /var/www/html/cakephp/app/Controller/AppController.php(50): CakeEmail->__construct('elastic')
+#3 /var/www/html/cakephp/app/Controller/MyController.php(50): AppController->sendMail('devr96@gmail.co...', Array, 'Vikrant Agrawal', 'success', 'contact-us')
+#4 [internal function]: MyController->home()
+#5 /var/www/html/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(MyController), Array)
+#6 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(MyController), Object(CakeRequest))
+#8 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-11-07 19:03:31 Error: [ConfigureException] /var/www/html/cakephp/app/Config/email.php not found.
+Request URL: /cakephp/
+Stack Trace:
+#0 /var/www/html/cakephp/lib/Cake/Network/Email/CakeEmail.php(1148): CakeEmail->_applyConfig('elastic')
+#1 /var/www/html/cakephp/lib/Cake/Network/Email/CakeEmail.php(362): CakeEmail->config('elastic')
+#2 /var/www/html/cakephp/app/Controller/AppController.php(50): CakeEmail->__construct('elastic')
+#3 /var/www/html/cakephp/app/Controller/MyController.php(50): AppController->sendMail('devr96@gmail.co...', Array, 'Vikrant Agrawal', 'success', 'contact-us')
+#4 [internal function]: MyController->home()
+#5 /var/www/html/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(MyController), Array)
+#6 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/html/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(MyController), Object(CakeRequest))
+#8 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-11-08 01:47:57 Error: [MissingControllerException] Controller class PinController could not be found.
+Exception Attributes: array (
+  'class' => 'PinController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/Pin
+Stack Trace:
+#0 /var/www/html/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
