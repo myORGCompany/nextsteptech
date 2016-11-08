@@ -387,5 +387,5 @@ Cache::config('_cake_model_', array(
 	'serialize' => ($engine === 'File'),
 	'duration' => $duration
 ));
-define('ABSOLUTE_URL' , FULL_BASE_URL.'/nextsteptech');
+define('ABSOLUTE_URL' , FULL_BASE_URL.'/cakephp');
 define('MAIL_SMTP_EMAILID',"admin@nextsteptech.in");
